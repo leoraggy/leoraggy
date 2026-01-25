@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What’s up?</h1>
+<h1 align="left">Greetings!?</h1>
 
 <p align="left" style="font-size:1.1rem;">
   My name is <strong>LeoTheProgrammer</strong> and I’m a Full-Stack Web Developer Intern at Green River College.
@@ -16,14 +16,14 @@
   Read the Bible in the Tigrigna language. Live on Google Play and the App Store.
 </p>
 
-<p>
-  <a href="https://play.google.com/store/apps/details?id=com.leoraggy.TigriniyaBible&hl=en_US">
-    <img src="./google.png" width="180" alt="Get it on Google Play" />
-  </a>
   <a href="https://apps.apple.com/us/app/tigrigna-kids-bible/id6751296401">
     <img src="./apple.png" width="180" alt="Download on the App Store" />
   </a>
-</p>
+
+  </br>
+  <a href="https://play.google.com/store/apps/details?id=com.leoraggy.TigriniyaBible&hl=en_US">
+    <img src="./google.png" width="180" alt="Get it on Google Play" />
+  </a>
 
 <h3>
   <a href="https://github.com/leoraggy/Textbook-to-Audiobook">
