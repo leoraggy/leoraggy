@@ -1,4 +1,4 @@
-<h1 align="left">Greetings!?</h1>
+<h1 align="left">Greetings!</h1>
 
 <p align="left" style="font-size:1.1rem;">
   My name is <strong>LeoTheProgrammer</strong> and I’m a Full-Stack Web Developer Intern at Green River College.
