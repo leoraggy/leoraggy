@@ -12,7 +12,7 @@
 
 - [Tigrigna Kids Bible](https://github.com/leoraggy/tigrina-kids-bible) – Read the bible in Tigrigna Language! Live on Google Store and AppStore.
 <a href="https://play.google.com/store/apps/details?id=com.leoraggy.TigriniyaBible&hl=en_US">
-  <img src="https://www.aps.edu/students-parents/images/downloadOnTheGooglePlayStoreBadge.png/image" width="400" alt="Google Play" />
+  <img src="./google.png" width="200" alt="Google Play" />
 </a>
 
 
