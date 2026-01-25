@@ -14,6 +14,9 @@
 <a href="https://play.google.com/store/apps/details?id=com.leoraggy.TigriniyaBible&hl=en_US">
   <img src="./google.png" width="200" alt="Google Play" />
 </a>
+<a href="https://apps.apple.com/us/app/tigrigna-kids-bible/id6751296401">
+  <img src="./apple.png" width="190" alt="Apple Play" />
+</a>
 
 
 ###
