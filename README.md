@@ -6,13 +6,19 @@
 
 ###
 
-<h2 align="left">Projects</h2>
+<h2 align="left">Featured Projects</h2>
 
 ###
 
-<p align="left">Tigrigna Kids Bible</p>
+- [Tigrigna Kids Bible](https://github.com/leoraggy/tigrina-kids-bible) – Read the bible in Tigrigna Language! Live on Google Store and AppStore.
+<a href="https://play.google.com/store/apps/details?id=com.leoraggy.TigriniyaBible&hl=en_US">
+  <img src="https://www.aps.edu/students-parents/images/downloadOnTheGooglePlayStoreBadge.png/image" width="400" alt="Google Play" />
+</a>
+
 
 ###
+
+- [Textbook-to-AudioBook](https://github.com/leoraggy/Textbook-to-Audiobook) – Translates text/pdf into text to speech audio with more emotion!
 
 <h2 align="left">I code with</h2>
 
