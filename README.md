@@ -1,8 +1,9 @@
-<h1 align="left">Greetings!</h1>
+<div align="center">
 
-<p align="left" style="font-size:1.1rem;">
-  My name is <strong>LeoTheProgrammer</strong> and I’m a Full-Stack Web Developer Intern at Green River College.
-</p>
+# Leo Ragual
+**Software Development (Computer Science) @ Green River College** <br>Prev Software Engineer Intern at Costco Travel · Seattle, WA
+
+</div>
 
 <h2 align="left">Featured Projects</h2>
 
@@ -24,26 +25,6 @@
   <a href="https://play.google.com/store/apps/details?id=com.leoraggy.TigriniyaBible&hl=en_US">
     <img src="./google.png" width="180" alt="Get it on Google Play" />
   </a>
-
-<h3>
-  <a href="https://github.com/leoraggy/Textbook-to-Audiobook">
-    Textbook-to-AudioBook
-  </a>
-</h3>
-
-<p>
-  Translates text and PDFs into expressive text-to-speech audio.
-</p>
-
-<h3>
-  <a href="https://github.com/leoraggy/College-Programs-Funding-Reporting-Application">
-    College Programs Funding Reporting Application
-  </a>
-</h3>
-
-<p>
-  A web application that allows department heads to manage funding reports and collaborate smoothly.
-</p>
 
 <h2 align="left">I code with</h2>
 
