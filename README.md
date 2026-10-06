@@ -15,6 +15,8 @@
 
 <p>
   Read the Bible in the Tigrigna language. Live on Google Play and the App Store.
+  <br>
+  Technology used: React Native Expo, Javascript, Google Play, Apple Store
 </p>
 
   <a href="https://apps.apple.com/us/app/tigrigna-kids-bible/id6751296401">
@@ -25,6 +27,16 @@
   <a href="https://play.google.com/store/apps/details?id=com.leoraggy.TigriniyaBible&hl=en_US">
     <img src="./google.png" width="180" alt="Get it on Google Play" />
   </a>
+
+  <h3>
+  <a href="https://github.com/leoraggy/chatterbox">ChatterBox</a>
+  </h3>
+
+  <p>Multi-threaded application that multitasks client reading messages from server and sending messages to server using WebSockets
+    <br>
+    Technology Used: Java, JUnit, Java IO library 
+  </p>
+  
 
 <h2 align="left">I code with</h2>
 
